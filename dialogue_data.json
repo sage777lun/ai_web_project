@@ -234,5 +234,8 @@
     {
         "input": "test_trigger",
         "output": "手動觸發 GitHub Actions 部署"
+    },
+    {
+        "test_trigger": "手動觸發 GitHub Actions 部署"
     }
 ]
