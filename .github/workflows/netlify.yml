@@ -1,0 +1,16 @@
+name: Netlify Auto Deploy
+
+on:
+  push:
+    paths:
+      - dialogue_data.json  # 監測 AI 訓練數據變更
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Deploy to Netlify
+        run: curl -X POST -H "Authorization: Bearer ${{ secrets.NETLIFY_API_KEY }}" https://api.netlify.com/api/v1/sites/YOUR_SITE_ID/builds
