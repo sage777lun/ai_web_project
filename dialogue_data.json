@@ -230,5 +230,9 @@
     {
         "input": "always love reading about Intercom and learning better ways to bring success to our customers! :)",
         "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "test_trigger",
+        "output": "手動觸發 GitHub Actions 部署"
     }
 ]
