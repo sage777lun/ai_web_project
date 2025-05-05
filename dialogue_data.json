@@ -1,0 +1,234 @@
+[
+    {
+        "input": "你好！今天過得怎麼樣？",
+        "output": "今天很棒，我很高興見到你！"
+    },
+    {
+        "input": "最近有什麼好看的科幻電影？",
+        "output": "我推薦《星際效應》，是一部非常棒的科幻電影！"
+    },
+    {
+        "input": "你喜歡人工智慧嗎？",
+        "output": "當然！人工智慧可以幫助人類解決許多問題。"
+    },
+    {
+        "input": "Reddit and its partners use cookies and similar technologies to provide you with a better experience. By accepting all cookies, you agree to our use of cookies to deliver and maintain our services and site, improve the quality of Reddit, personalize Reddit content and advertising, and measure the effectiveness of advertising. By rejecting non-essential cookies, Reddit may still use certain cookies to ensure the proper functionality of our platform.\n            For more information, please see our\n        Cookie Notice\n        and our\n        Privacy Policy.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "TL;DR: Feel like you missed a class on ISAs and your savings are paying the price? You’re not as out of the loop as you think. For the NatWest Savings Index, we surveyed 10,000 people on their savings behaviours. Here’s a snapshot of what we found...",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Money on the table",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "What are ISAs anyway? Well, ISAs allow tax-free savings each year – meaning there’s no tax to pay on the interest you earn.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "While that might be the case, our study found that one in three adults don’t actually have an individual savings account (ISA) at all. You might be one of them.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Despite their benefits (namely, tax-free interest), 35% of adults surveyed aren’t taking advantage of these accounts, and knowledge is a key barrier – something we’re trying to solve. Only a third know the annual allowance of an ISA and 62% don’t plan on opening or contributing to one this year.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "This varies across the UK, with 77% of Londoners saying they had an ISA and only 57% for those in Wales. Overall, more than a quarter (27%) of people aren’t aware of cash ISAs.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Need an ISA ELI5? You’re not alone.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "An ISA is a tax-free savings or investment account, with different types available. You don’t pay tax on what your money earns. The annual ISA allowance limits what you can save across all ISA types to £20,000 each tax year.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "The different varieties of ISA accounts are a clear knowledge gap for many… So let’s look to clear that up right now.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "A cash ISA is an interest-paying savings account with an annual £20,000 tax-free deposit limit",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "A stocks and shares ISA is an investment account that allows you to invest £20,000 tax-free each tax year",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "While 73% may be aware of cash ISAs, awareness is lower for stocks and shares ISAs (60%) and lifetime ISAs (44%).",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "When it comes to different generations, just 22% of those aged 18-24 lack any ISA awareness. This is even lower (9%) among people aged 65 and above.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Strong appetite to save",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Across the UK, we’re still seeing healthy monthly contributions to savings pots, with many people keen to put their cash aside.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "How much are we talking? On average, those surveyed were saving £226.05 each month. That’s a pretty well fed piggy bank!",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "We also found that 60% of people surveyed set a budget for themselves, while 90% dip into their saving pots from time to time.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "What does this mean for rainy day funds? Well, the average saver today has £4,578 set aside to deal with an emergency. At the same time, just over one in 10 (12%) UK adults don’t have any emergency savings at all. Learning more about how others save and how you stack up might help you chat about money. And it may help you on your own savings journey.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Keen to learn more about how others save?",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Dig into the details on savings trends, data breakdowns and more… Explore the NatWest Savings Index.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Anyone can view, post, and comment to this community",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Submissions must be primarily news and developments relating to technology.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Self posts must contribute positively to r/technology and foster reasonable discussion. Cross-post self posts are not acceptable.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Submissions relating to business and politics must be sufficiently within the context of technology in that they either view the events from a technological standpoint or analyse the  repercussions in thetechnological world.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Articles with supporting image and video content are allowed; if the text is only there to explain the media, then it is not suitable. A good rule of thumb is to look at the URL; if it's a video hosting site, or mentions video in the URL, it's not suitable.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Submissions must use either the articles title and optionally a subtitle, or, only  if neither are accurate, a suitable quote,  which must:",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "adequately describe the content",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "adequately describe the content's relation to technology",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "be free of user editorialization or alteration of meaning.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Requests for tech support, asking questions or asking for help: submit to r/techsupport, r/AskTechnology, another relevant community or our weekly Support Saturday threads.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Please do not submit any petitions, surveys, crowdfunding, or any other call to action or fundraising.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Please do not submit discussions of one or more incidents of customer support or customer feedback.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "You are advised to abide by reddiquette; it will be enforced when user behavior is no longer deemed to be suitable for a technology forum. Remember; personal attacks, directed abusive language, trolling or bigotry in any form, are therefore not allowed and will be removed.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Please do not submit articles that are already covered by submissions currently in r/technology. Please doublecheck reddit.com/r/technology/new to make sure the topic you're submitting is unique.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Do not submit anything you have personally written or any projects, websites, or companies you are affiliated with or represent. You are to abide by the site-wide Terms of Service and Content Policy regarding Spam and Self Promotion. No exceptions.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Something went wrong. Wait a moment and try again.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Reddit and its partners use cookies and similar technologies to provide you with a better experience. By accepting all cookies, you agree to our use of cookies to deliver and maintain our services and site, improve the quality of Reddit, personalize Reddit content and advertising, and measure the effectiveness of advertising. By rejecting non-essential cookies, Reddit may still use certain cookies to ensure the proper functionality of our platform.\n            For more information, please see our\n        Cookie Notice\n        and our\n        Privacy Policy.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Anyone can view, post, and comment to this community",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Submissions must be primarily news and developments relating to technology.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Self posts must contribute positively to r/technology and foster reasonable discussion. Cross-post self posts are not acceptable.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Submissions relating to business and politics must be sufficiently within the context of technology in that they either view the events from a technological standpoint or analyse the  repercussions in thetechnological world.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Articles with supporting image and video content are allowed; if the text is only there to explain the media, then it is not suitable. A good rule of thumb is to look at the URL; if it's a video hosting site, or mentions video in the URL, it's not suitable.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Submissions must use either the articles title and optionally a subtitle, or, only  if neither are accurate, a suitable quote,  which must:",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "adequately describe the content",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "adequately describe the content's relation to technology",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "be free of user editorialization or alteration of meaning.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Requests for tech support, asking questions or asking for help: submit to r/techsupport, r/AskTechnology, another relevant community or our weekly Support Saturday threads.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Please do not submit any petitions, surveys, crowdfunding, or any other call to action or fundraising.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Please do not submit discussions of one or more incidents of customer support or customer feedback.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "You are advised to abide by reddiquette; it will be enforced when user behavior is no longer deemed to be suitable for a technology forum. Remember; personal attacks, directed abusive language, trolling or bigotry in any form, are therefore not allowed and will be removed.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Please do not submit articles that are already covered by submissions currently in r/technology. Please doublecheck reddit.com/r/technology/new to make sure the topic you're submitting is unique.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Do not submit anything you have personally written or any projects, websites, or companies you are affiliated with or represent. You are to abide by the site-wide Terms of Service and Content Policy regarding Spam and Self Promotion. No exceptions.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "Something went wrong. Wait a moment and try again.",
+        "output": "這是一條新的訓練數據"
+    },
+    {
+        "input": "always love reading about Intercom and learning better ways to bring success to our customers! :)",
+        "output": "這是一條新的訓練數據"
+    }
+]
